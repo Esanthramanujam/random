@@ -1,5 +1,3 @@
-a = 8
+a =9 
 b = 6
-
-m = int(input("whats the third number?"))
-print(m+a+b)
+print(a+b)
