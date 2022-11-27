@@ -1,3 +1,4 @@
-a =9 
+a = 9
 b = 6
-print(a+b)
+c = int(input("the third nuumber is ?"))
+print(a+b+c)
